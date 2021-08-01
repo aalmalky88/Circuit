@@ -24,7 +24,7 @@ void loop ()
 {
   int pot1Value = analogRead(pot1);
   int pot2Value = analogRead(pot2);
-  int pot3Value = analogRead(pot3);  //reading pot value
+  int pot3Value = analogRead(pot3);  //reading value of pt
   int pot4Value = analogRead(pot4);
   int pot5Value = analogRead(pot5);
   
